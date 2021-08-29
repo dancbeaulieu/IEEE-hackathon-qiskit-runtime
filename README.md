@@ -5,8 +5,13 @@ In this project i want to use variational quantum circuit within the variational
 The notebook was compiled on the IBMQ environment using the following modules:
 
 qiskit-0.29
+
 qiskit-nature
+
 sckit-learn
+
 qiskit-runtime
+
 matplotlib
+
 numpy
